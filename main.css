@@ -1,12 +1,14 @@
+body {
+    background-color:#ffadf1;
+}
 *{
     box-sizing: margin-box;
     padding: 25px;
 }
-*{
-    box-sizing: border-box;
-    padding: 25px;
-    background-color: pink 
-}
 img {
     width: 5%;
+}
+a {
+    color: white;
+    font-size: 20px;
 }
