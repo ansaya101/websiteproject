@@ -1,0 +1,12 @@
+*{
+    box-sizing: margin-box;
+    padding: 25px;
+}
+*{
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: pink 
+}
+img {
+    width: 5%;
+}
