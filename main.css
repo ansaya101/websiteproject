@@ -1,14 +1,39 @@
-body {
-    background-color:#ffadf1;
+@import url('https://fonts.googleapis.com/css?family=Caveat|Satisfy&display=swap');
+h1,p,a{
+    font-family: 'Caveat', cursive;
 }
-*{
+p, h1, h2{
+    background-color:rgba(219,244,255,0.4);
+}
+body{
     box-sizing: margin-box;
-    padding: 25px;
+    padding: 50px;
+    background-image: url("Norfolk.webp");
+    background-size: 1500px;
 }
 img {
-    width: 5%;
+    width: 500px;
+}
+.image1 {
+    width: 100px;
+}
+.mmuimage {
+    width: 35px;
+}
+.image3 {
+    width: 60px;
+}
+.contact {
+    position: relative;
+    left: 70px;
+    top: 100px;
+    z-index: -1;
+    width: 1106.5px;
 }
 a {
-    color: white;
+    color: #ffadf1;
     font-size: 20px;
+    font-family: 'Caveat', cursive;
+    background-color:rgba(219,244,255,0.4);
+    width: 20px;
 }
