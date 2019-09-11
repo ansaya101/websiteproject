@@ -1,1 +1,0 @@
-MoatBSJsonpRequest_50901634({"c": ["moat_unsure"], "d": 3, "g": 0.05103707313537598, "pcode": "yahoovpaidtwoint215831825037", "r": 8563237788, "ct": 0})
