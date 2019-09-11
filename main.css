@@ -7,9 +7,10 @@ p, h1, h2{
 }
 body{
     box-sizing: margin-box;
-    padding: 50px;
-    background-image: url("Norfolk.webp");
-    background-size: 1500px;
+    padding: 15px;
+    background-image: url("norfolkBeach.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 img {
     width: 500px;
@@ -21,17 +22,17 @@ img {
     width: 35px;
 }
 .image3 {
-    width: 60px;
+    width: 65px;
 }
 .contact {
     position: relative;
     left: 70px;
-    top: 100px;
+    top: -100px;
     z-index: -1;
-    width: 1106.5px;
+    width: 200px;
 }
 a {
-    color: #ffadf1;
+    color: #ea34ed;
     font-size: 20px;
     font-family: 'Caveat', cursive;
     background-color:rgba(219,244,255,0.4);
