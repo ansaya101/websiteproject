@@ -2,7 +2,7 @@
 h1,p,a{
     font-family: 'Caveat', cursive;
 }
-p, h1, h2{
+p,h1, h2{
     background-color:rgba(219,244,255,0.4);
 }
 body{
@@ -31,10 +31,31 @@ img {
     z-index: -1;
     width: 200px;
 }
+.welcomeimage {
+    left: 100px;
+    z-index: -1;
+    width:995px;
+}
+.welcomemessage {
+    top: 600px;
+    left: 150px;
+    z-index: -1;
+    font-size: 25px;
+    color: #8200b5;
+    background-color: transparent;
+}
+.crab {
+    position: relative;
+    left: 900px;
+    width:100px;
+    top: -100px;
+}
+
+}
 a {
     color: #ea34ed;
-    font-size: 20px;
-    font-family: 'Caveat', cursive;
-    background-color:rgba(219,244,255,0.4);
+    font-size: 100px;
+    font-family:'Caveat', cursive;
+    background-color: transparent;
     width: 20px;
 }
