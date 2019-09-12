@@ -20,17 +20,18 @@ img {
     width: 100px;
 }
 .mmuimage {
-    width: 40px;
+    width: 50px;
+    position: relative;
+    left: 10px
 }
 .image3 {
-    width: 65px;
+    width: 100px;
     z-index:-1;
-    top: 20px;
 }
 .contact {
     position: relative;
-    left: 70px;
-    top: -100px;
+    left: 120px;
+    top:-140px;
     z-index: -1;
     width: 250px;
 }
@@ -41,8 +42,9 @@ img {
     width:995px;
 }
 .welcomemessage {
+    position: fixed;
     top: 600px;
-    left: 150px;
+    left: 15opx;
     z-index: -1;
     font-size: 25px;
     color: #8200b5;
